@@ -1,0 +1,4000 @@
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 17 player2 score: 15
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 17 player2 score: 19
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 18 player2 score: 16
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 20 player2 score: 21
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 1
+Player 1 wins
+player1 score: 1 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 15 player2 score: 17
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 19 player2 score: 17
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 15 player2 score: 17
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 16
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 18 player2 score: 16
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 16 player2 score: 14
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 1
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 17
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 1 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 16 player2 score: 14
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 1 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 16 player2 score: 18
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 17
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 14 player2 score: 16
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 18 player2 score: 16
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 1 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 16
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 1
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 16 player2 score: 14
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 16 player2 score: 14
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 16 player2 score: 14
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 18 player2 score: 16
+Player 1 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 1
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 2
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 3
+Player 1 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 1
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 14 player2 score: 16
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 10 player2 score: 12
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 4
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 11 player2 score: 13
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 2 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 10
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 15 player2 score: 13
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 5 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 9 player2 score: 11
+Player 2 wins
+player1 score: 14 player2 score: 12
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 4 player2 score: 11
+Player 2 wins
+player1 score: 13 player2 score: 11
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 13 player2 score: 15
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 6
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 5
+Player 1 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 12 player2 score: 14
+Player 2 wins
+player1 score: 6 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 8
+Player 1 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 3 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 7
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
+player1 score: 8 player2 score: 11
+Player 2 wins
+player1 score: 11 player2 score: 9
+Player 1 wins
+player1 score: 7 player2 score: 11
+Player 2 wins
